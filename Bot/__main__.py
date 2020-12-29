@@ -33,7 +33,7 @@ async def start(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        text="Create your own bot", url="https://heroku.com/deploy?template=https://github.com/alinebot/songs"
+                        text="Create your own bot", url="https://github.com/alinebot/songs"
                     )
                 ]
             ]
