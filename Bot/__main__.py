@@ -33,7 +33,7 @@ async def start(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        text="Add me to your group", url="https://t.me/SongAnie_bot?startgroup=true"
+                        text="Create your own bot", url="https://heroku.com/deploy?template=https://github.com/alinebot/songs"
                     )
                 ]
             ]
